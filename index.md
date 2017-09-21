@@ -1,12 +1,13 @@
-## Selamat Datang Di  Pages MAKADEV
+## Selamat Datang Di MAKADEV
 
+Jangan Bosan Mengunjungi Kami !
+
+### APA ITU MAKADEV
+Makadev adalah situs belajar interaktif bagi pemula yang ingin belajar dari bawah sampai menjadi developer handal.
 Anda Bisa Mengunjugi Web Resmi [MAKADEV](https://makadev.com) Untuk Melihat Banyak Tutorial Pengembangan Aplikasi Dalam Bentuk Bahasa Indonesia.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
+```
+markdown
 Syntax highlighted code block
 
 # Header 1
@@ -21,7 +22,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 ```
-[makadev](https://makadev.com/) and ![Image](https://makadev.com/public/images/makadev.png/)
+[makadev](https://makadev.com/) and ![Image](src="https://makadev.com/public/images/makadev.png/")
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
