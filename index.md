@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Selamat Datang Di  Pages MAKADEV
 
-You can use the [editor on GitHub](https://github.com/makadevID/makadevID.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Anda Bisa Mengunjugi Web Resmi [MAKADEV](https://makadev.com) Untuk Melihat Banyak Tutorial Pengembangan Aplikasi Dalam Bentuk Bahasa Indonesia.
 
 ### Markdown
 
